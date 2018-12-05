@@ -1,0 +1,5 @@
+用nodejs运行mongodb
+
+npm install
+node index.js
+即可看到控制台打印出数据库中的信息
